@@ -31,13 +31,13 @@
 
 ## Introduction
 
-Geode-Conversion is an [OpenGeode](https://github.com/Geode-solutions/OpenGeode) module providing conversion alogrithm between volumetric and surfacic meshes and boundary reprensetation.
+Geode-Conversion is an [OpenGeode](https://github.com/Geode-solutions/OpenGeode) module providing conversion algorithms between volumetric and surface meshes and boundary representation.
 This is a proprietary module from [Geode-solutions](https://geode-solutions.com), you will need a license file to use it. 
 Please contact us directly for more information by [slack](https://slackin-opengeode.herokuapp.com) or by [mail](mailto:contact@geode-solutions.com).
 
 ## Documentation
 
-This repository provide Jupyter notebooks that be used as example usage of the module.
+This repository provides Jupyter notebooks used as example usage of the module.
 For more general documentation on OpenGeode, check out our live documentation, visit [docs.geode-solutions.com](https://docs.geode-solutions.com).
 
 Installing Geode-Conversion is done by using pip command ```pip install Geode-Conversion``` and add ```import geode_conversion``` in your Python script.
