@@ -1,18 +1,11 @@
 <h1 align="center">Geode-Conversion<sup><i>by Geode-solutions</i></sup></h1>
-<h3 align="center">Conversion module for Geode-solutions OpenGeode modules</h3>
-
-<!-- <p align="center">
-  <img src="https://github.com/Geode-solutions/OpenGeode-Geosciences/workflows/CI/badge.svg" alt="Build Status">
-  <img src="https://github.com/Geode-solutions/OpenGeode-Geosciences/workflows/CD/badge.svg" alt="Deploy Status">
-  <img src="https://codecov.io/gh/Geode-solutions/OpenGeode-Geosciences/branch/master/graph/badge.svg" alt="Coverage Status">
-  <img src="https://img.shields.io/github/release/Geode-solutions/OpenGeode-Geosciences.svg" alt="Version">
-  <img src="https://img.shields.io/pypi/v/opengeode-geosciences" alt="PyPI" >
-</p> -->
+<h3 align="center">Conversion Geode-solutions OpenGeode module</h3>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Windows&logo=windows&logoColor=white&message=support&color=success" alt="Windows support">
   <img src="https://img.shields.io/static/v1?label=Ubuntu&logo=Ubuntu&logoColor=white&message=support&color=success" alt="Ubuntu support">
   <img src="https://img.shields.io/static/v1?label=Red%20Hat&logo=Red-Hat&logoColor=white&message=support&color=success" alt="Red Hat support">
+  <img src="https://img.shields.io/pypi/v/geode-conversion" alt="PyPI" >
 </p>
 
 <p align="center">
