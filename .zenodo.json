@@ -1,6 +1,5 @@
 {
     "description": "Conversion module for Geode-solutions OpenGeode modules",
     "title": "Geode-Conversion",
-    "license": "proprietary",
     "creators": [{"name": "Geode-solutions"}]
 }
